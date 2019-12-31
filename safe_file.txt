@@ -18,7 +18,7 @@ class Music_Classification_Script:
         shutil.move(source_file_path,destination_folder)
         print("\t File moved in FOlder \n")
 
-        
+        //this is an exaple file
 
     @staticmethod
     def create_directory(music_file,artist_Name_List):     
